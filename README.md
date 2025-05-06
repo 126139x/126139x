@@ -1,8 +1,4 @@
-# 👋 Hi, I’m an IT Systems Administrator with 10+ Years of Experience
-![Banner](https://media.licdn.com/dms/image/v2/D4E16AQHqPFsnOzXe8g/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1671213831967?e=1752105600&v=beta&t=BPB7zCnMjji2J8l-9oDNToQQC84J6fw8KPFSzHyUnkQ) 
-
-Welcome to my GitHub! I'm an experienced **IT Support Specialist / System Administrator / IT Operations Engineer** with a strong background in enterprise infrastructure, mobile device management, cloud services, and automation.
-
+# 👋 Hi, Welcome to my GitHub! I'm an experienced **IT Support Specialist / System Administrator / IT Operations Engineer** with a strong background in enterprise infrastructure, mobile device management, cloud services, and automation.
 ---
 
 ### 🔧 Core Skills & Competencies

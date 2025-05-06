@@ -25,10 +25,9 @@
 ![image](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![image](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
-![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
+![image](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-- **Cloud & Infrastructure:** Active Directory, Office 365, Azure AD, Google Workspace, Google Cloud, AWS, Ubuntu Server, TrueNAS, Proxmox
-- **Virtualization:** VMware, Hyper-V, VirtualBox
+Active Directory, Google Workspace, Ubuntu Server, TrueNAS, Hyper-V 
 - **Networking:** MikroTik, Ubiquiti Unifi
 - **Scripting & Automation:** PowerShell, Bash, Command Prompt
 - **MDM & RMM Tools:** Jamf Pro, Mosyle, Microsoft Intune, JumpCloud, NinjaOne

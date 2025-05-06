@@ -5,7 +5,8 @@
 
 ### 🔧 Core Skills & Competencies
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white))
+<img src="{BadgeURLHere}" />
+![image]({https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white})
 - **Operating Systems:** Windows, macOS, Linux
 - **Cloud & Infrastructure:** Active Directory, Office 365, Azure AD, Google Workspace, Google Cloud, AWS, Ubuntu Server, TrueNAS, Proxmox
 - **Virtualization:** VMware, Hyper-V, VirtualBox

@@ -27,12 +27,7 @@
 ![image](https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white)
 ![image](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)
 
-Active Directory, Google Workspace, Ubuntu Server, TrueNAS, Hyper-V 
-- **Networking:** MikroTik, Ubiquiti Unifi
-- **Scripting & Automation:** PowerShell, Bash, Command Prompt
-- **MDM & RMM Tools:** Jamf Pro, Mosyle, Microsoft Intune, JumpCloud, NinjaOne
-- **ITSM & Collaboration:** Jira Service Management, Slack Admin & Workflows
-- **VoIP Support:** SIP, QoS, network latency troubleshooting
+Active Directory, Google Workspace, Ubuntu Server, TrueNAS, Hyper-V, MikroTik, Ubiquiti Unifi, Jamf, Mosyle, JumpCloud, NinjaOne, Jira Service Management, Slack Workflows
 
 ---
 

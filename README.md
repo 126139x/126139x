@@ -6,6 +6,7 @@
 ### 🔧 Core Skills & Competencies
 
 ![image](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 - **Cloud & Infrastructure:** Active Directory, Office 365, Azure AD, Google Workspace, Google Cloud, AWS, Ubuntu Server, TrueNAS, Proxmox
 - **Virtualization:** VMware, Hyper-V, VirtualBox

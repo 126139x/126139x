@@ -1,5 +1,5 @@
 # 👋 Hi, Welcome to my GitHub! 
-### I'm an **IT Support Specialist / System Administrator / IT Operations Engineer** with a strong background in enterprise infrastructure, mobile device management, cloud services, and automation.
+### I'm an IT Enthusiast with specialties of **IT Service Management / IT Assets Management / Identity & Access Management / Mobile Device Management / Mobile Applications Management / Remote Monitoring & Management / **.
 ---
 
 ### 🔧 Core Skills & Competencies

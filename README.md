@@ -14,6 +14,7 @@
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
 - **Cloud & Infrastructure:** Active Directory, Office 365, Azure AD, Google Workspace, Google Cloud, AWS, Ubuntu Server, TrueNAS, Proxmox
 - **Virtualization:** VMware, Hyper-V, VirtualBox
